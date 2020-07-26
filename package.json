@@ -1,0 +1,39 @@
+{
+  "name": "todo-app-antd",
+  "description": "Coding Assignment given by ASZ Technologies",
+  "version": "0.1.0",
+  "author": "Indrajit",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.2.1",
+    "antd": "3.26.16",
+    "bootstrap": "^4.3.1",
+    "node-sass": "^4.14.1",
+    "prettier": "2.0.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.5",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.8.5",
+    "react-overlay-trigger": "^1.0.3",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
